@@ -1,0 +1,20 @@
+body{
+    font-family: 'Licorice', cursive;
+    background:rgb(122, 93, 150);
+}
+h1{
+    font-family: 'sans-serif'; /*sans-serif : this would give browser default font*/
+    color: blue;
+}
+#product-overview{
+    background: red;
+}
+.section-title{
+    color: black;
+    
+}
+
+/*#product-overview h1{
+    font-family: 'Licorice', cursive; /*sans-serif : this would give browser default font
+    color: green;
+} */
